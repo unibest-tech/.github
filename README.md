@@ -1,70 +1,25 @@
-# .github
+<p align="center">
+<a href="https://github.com/unibest-tech/unibest">
+    <img width="160" src="../unibest.svg ">
+  </a>
+</p>
 
-The default community health files for uni-helper repos on GitHub.
+<h1 align="center">
+  <a href="https://github.com/unibest-tech/unibest" target="_blank">unibest - 最好的 uniapp 开发框架</a>
+</h1>
 
-Read [GitHub's docs](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) to learn more.
+# 👋 欢迎来到 unibest-tech
 
-Inspired by [antfu/.github](https://github.com/antfu/.github).
+`unibest-tech` 组织统一维护 `unibest` 相关项目。
 
-## Logo
+## 🪄 官网
 
-### Markdown
+`unibest` 官网 <https://unibest.tech>，祝你快速开发 `uniapp` 项目。
 
-```md
-![uni-helper-logo](https://github.com/uni-helper/.github/raw/main/uni-helper.svg)
-```
+## 📖 介绍
 
-![uni-helper-logo](https://github.com/uni-helper/.github/raw/main/uni-helper.svg)
+`unibest` —— 最好的 `uniapp` 开发模板，由 `uniapp` + `Vue3` + `Ts` + `Vite5` + `UnoCss` + `wot-ui` + `z-paging` 构成，使用了最新的前端技术栈，无需依靠 `HBuilderX`，通过命令行方式运行 `web`、`小程序` 和 `App`（编辑器推荐 `VSCode`，可选 `webstorm`）。
 
-### HTML
+`unibest` 内置了 `约定式路由`、`layout布局`、`请求封装`、`请求拦截`、`登录拦截`、`UnoCSS`、`i18n多语言` 等基础功能，提供了 `代码提示`、`自动格式化`、`统一配置`、`代码片段` 等辅助功能，让你编写 `uniapp` 拥有 `best` 体验 （ `unibest 的由来`）。
 
-```html
-<img
-  src="https://github.com/uni-helper/.github/raw/main/uni-helper.svg"
-  alt="uni-helper-logo"
-/>
-```
-
-<img src="https://github.com/uni-helper/.github/raw/main/uni-helper.svg" alt="uni-helper-logo">
-
-## Banner
-
-### Markdown
-
-```md
-![uni-helper-banner](https://github.com/uni-helper/.github/raw/main/uni-helper-banner.png)
-```
-
-![uni-helper-banner](https://github.com/uni-helper/.github/raw/main/uni-helper-banner.png)
-
-### HTML
-
-```html
-<img
-  src="https://github.com/uni-helper/.github/raw/main/uni-helper-banner.png"
-  alt="uni-helper-banner"
-/>
-```
-
-<img src="https://github.com/uni-helper/.github/raw/main/uni-helper-banner.png" alt="uni-helper-banner">
-
-## Shield
-
-### Markdown
-
-```md
-![uni-helper-shield](https://github.com/uni-helper/.github/raw/main/uni-helper-shield.svg)
-```
-
-![uni-helper-shield](https://github.com/uni-helper/.github/raw/main/uni-helper-shield.svg)
-
-### HTML
-
-```html
-<img
-  src="https://github.com/uni-helper/.github/raw/main/uni-helper-shield.svg"
-  alt="uni-helper-shield"
-/>
-```
-
-<img src="https://github.com/uni-helper/.github/raw/main/uni-helper-shield.svg" alt="uni-helper-shield">
+![](https://raw.githubusercontent.com/andreasbm/readme/master/screenshots/lines/rainbow.png)
