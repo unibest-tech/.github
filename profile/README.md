@@ -14,7 +14,7 @@
 
 ## 🪄 官网
 
-`unibest` 官网 <https://unibest.tech>，祝你快速开发 `uniapp` 项目。
+`unibest` 官网 <https://unibest.tech>，助你快速开发 `uniapp` 项目。
 
 ## 📖 介绍
 
